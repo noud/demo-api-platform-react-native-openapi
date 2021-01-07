@@ -6,7 +6,7 @@
 
 [API-First](http://swagger.io/resources/articles/adopting-an-api-first-approach/) development to facilitate a [Rapid-application development (RAD)](http://en.wikipedia.org/wiki/Rapid_application_development) process.
 ## [API Platform](http://api-platform.com) [demo API](http://demo.api-platform.com)
-## Code generation
+## [Automatic programming](http://en.wikipedia.org/wiki/Automatic_programming)
 Generate and start this client with.
 ```bash
 cd react-native-openapi-api-platform-demo && sbin/provision.sh

@@ -1,0 +1,11 @@
+noud@ns1:~$ /home/noud/Android/Sdk/platform-tools/adb --version
+Android Debug Bridge version 1.0.41
+Version 30.0.5-6877874
+Installed as /home/noud/Android/Sdk/platform-tools/adb
+noud@ns1:~$ /usr/lib/android-sdk/platform-tools/adb --version
+Android Debug Bridge version 1.0.39
+Version 1:8.1.0+r23-8
+Installed as /usr/lib/android-sdk/platform-tools/adb
+
+apache2_1              | docker.vm:80 193.118.53.210 - - [07/Jan/2021:04:57:27 +0000] "GET / HTTP/1.1" 200 2360 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+apache2_1              | [httpd:access] 92.65.241.227:80 - - 193.118.53.210 - - [07/Jan/2021:04:57:27 +0000] "GET / HTTP/1.1" 200 bytesIn:205 bytesOut:2360 reqTime:0

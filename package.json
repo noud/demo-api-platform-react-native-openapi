@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "expo-cli": "^4.0.17"
+  },
+  "license": "MIT",
+  "private": false
+}
